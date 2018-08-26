@@ -1,11 +1,4 @@
 #include <TimerOne.h>
-
-/*
-Arduino Hall Effect Sensor Project
-by Arvind Sanjeev
-Please check out  http://diyhacking.com for the tutorial of this project.
-DIY Hacking
-*/
 unsigned long count = 0;
 unsigned long tempCount = 5;
 byte flag  = 0;
