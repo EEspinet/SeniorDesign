@@ -12,10 +12,7 @@ Team Members: Eric Bachus, Enrique Espinet, Mike Holmes,Lucknell Madestin, Italo
 
 Tasks:
 Software Design & Development:
-Enrique
-Lucknell
-Eric
+Enrique, Lucknell, Eric
 
 Electrical Components/Circuit Design & Development
-Italo
-Mike
+Italo, Mike
